@@ -2,7 +2,7 @@
 
 > Passionate data profesional specializing in business analytics and insight generation
 
-Hi there! I'm a **Jr Cash Management Analyst at Citilink Indonesia**, with a growing passion and focus on **data analytics in finance and fleet management**. 
+Hi there! I'm a **Jr Cash Management Analyst**, with a growing passion and focus on **data analytics in finance and fleet management**. 
 I'm actively transitioning into a **Data Analyst** role where I can transform data into insights and decisions that **optimize financial operations and asset utilization**.
 
 📍 **Location**: Indonesia 
