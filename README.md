@@ -28,7 +28,6 @@ I'm actively transitioning into a **Data Analyst** role where I can transform da
 ## 🚀 Featured Projects
 
 ### 📊 1. Cash Flow Monitoring for Airlines
-**Status**: In progress
 **Objective**: Build a real-time, data-driven cash monitoring system for airlines.  
 
 [View Projects →](/projects/Cash-Flow-Monitoring-for-Airlines)
@@ -36,7 +35,6 @@ I'm actively transitioning into a **Data Analyst** role where I can transform da
 ---
 
 ### ✈️ 2. Fleet Utilization Analysis
-**Status**: In progress 
 **Objective**: Assess how efficiently the airline fleet is being utilized.  
 
 [View Projects →](/projects/Fleet-Utilization-Analysis)
@@ -44,7 +42,6 @@ I'm actively transitioning into a **Data Analyst** role where I can transform da
 ---
 
 ### 🛒 3. E-commerce Sales Performance Analysis
-**Status**: In Progress
 **Objective**: Simulate and analyze e-commerce data to improve sales performance.  
 
 [View Projects →](/projects/Ecommerce-Sales-Performance-Analysis)
