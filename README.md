@@ -7,7 +7,7 @@ I'm actively transitioning into a **Data Analyst** role where I can transform da
 
 📍 **Location**: Indonesia 
 
-🎯 **Target Role**: Data Analyst (Finance / Fleet Management) 
+🎯 **Target Role**: Data Analyst (Finance / Operational Flight ) 
 
 📈 **Data Analysis Skills**:
    - Understanding basic statistical concepts (mean, median, mode)
