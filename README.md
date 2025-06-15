@@ -33,6 +33,7 @@ I'm actively transitioning into a **Data Analyst** role where I can transform da
 
 ### 📊 1. Cash Flow Monitoring for Airlines
 **Tools**: Excel, Google Sheets, Python (Pandas), Matplotlib, Seaborn
+
 **Overview**: Built a dynamic dashboard to track daily and monthly cash flow operations.
 
 [View Projects →](/projects/Cash-Flow-Monitoring-for-Airlines)
@@ -41,6 +42,7 @@ I'm actively transitioning into a **Data Analyst** role where I can transform da
 
 ### ✈️ 2. Rental Cash Management for Airlines
 **Tools**: SQL, Power BI, Tableau, Looker Studio, Excel, Google Sheets
+
 **Overview**: Developed a structured analysis to monitor rental contract payments across different lessors.
 
 [View Projects →](/projects/Rental-Cash-Management-for-Airlines)
@@ -49,6 +51,7 @@ I'm actively transitioning into a **Data Analyst** role where I can transform da
 
 ### ✈️ 3. Maintenance Reserve Cash Management for Airlines
 **Tools**: SQL, Power BI, Tableau, Looker Studio, Excel, Google Sheets  
+
 **Overview**: Visualized reserve fund flows for aircraft maintenance planning.
 
 [View Projects →](/projects/Maintenance-Reserve-Cash-Management-for-Airlines)
