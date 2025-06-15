@@ -84,8 +84,7 @@ Currently leveling up in:
 I’m always open to opportunities in **data analytics**—especially in finance or fleet optimization roles where I can create value from data. If you're hiring or would like to collaborate:
 
 **Email:** hanysmaulia91@gmail.com  
-**LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/hanysmaulia)  
-**Portfolio Website:** [yourwebsite.com](https://Hanysdata.com)
+**LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/hanysmaulia)
 
 ---
 
