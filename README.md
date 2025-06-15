@@ -1,8 +1,12 @@
 # 👩‍💻 Hany Septy Maulia – Data Analyst Portfolio
 
-Hi there! I'm **Hany Septy Maulia**, currently working as a **Jr Cash Management Analyst at Citilink Indonesia**, with a growing passion and focus on **data analytics in finance and fleet management**. I'm actively transitioning into a **Data Analyst** role where I can transform data into insights and decisions that **optimize financial operations and asset utilization**.
+> Passionate data profesional specializing in business analytics and insight generation
+
+Hi there! I'm a **Jr Cash Management Analyst at Citilink Indonesia**, with a growing passion and focus on **data analytics in finance and fleet management**. 
+I'm actively transitioning into a **Data Analyst** role where I can transform data into insights and decisions that **optimize financial operations and asset utilization**.
  
-🎯 **Target Role**: Data Analyst (Finance / Fleet Management)  
+🎯 **Target Role**: Data Analyst (Finance / Fleet Management) 
+
 🛠️ **Core Skills**:
 - Excel (Intermediate)
 - SQL (Beginner)
@@ -25,7 +29,10 @@ Hi there! I'm **Hany Septy Maulia**, currently working as a **Jr Cash Management
 - Helped simulate cash shortage alerts that improve **decision-making speed** for treasury teams.
 
 ✅ **Business Impact**:  
-Enabled finance team to **proactively manage cash reserves**, avoiding potential shortfalls during fluctuating operational periods.
+- Enabled finance team to **proactively manage cash reserves**
+- Avoiding potential shortfalls during fluctuating operational periods.
+
+[View Projects ]
 
 ---
 
@@ -38,7 +45,11 @@ Enabled finance team to **proactively manage cash reserves**, avoiding potential
 - Delivered **data-backed efficiency recommendations** for better planning.
 
 ✅ **Business Impact**:  
-Supported operations team in optimizing aircraft scheduling, resulting in **reduced idle time** and **better fleet ROI**.
+- Supported operations team in optimizing aircraft scheduling
+- resulting in **reduced idle time**
+- **better fleet ROI**.
+
+[View Projects ]
 
 ---
 
@@ -51,7 +62,11 @@ Supported operations team in optimizing aircraft scheduling, resulting in **redu
 - Focused on **revenue growth metrics**, **conversion rate trends**, and **category performance insights**.
 
 ✅ **Business Impact**:  
-Demonstrated capability to drive **business decisions from data**, improving understanding of **sales bottlenecks** and potential **revenue streams**.
+- Demonstrated capability to drive **business decisions from data**
+- Improving understanding of **sales bottlenecks**
+- Potential **revenue streams**.
+
+[View Projects ]
 
 ---
 
@@ -68,8 +83,9 @@ Currently leveling up in:
 
 I’m always open to opportunities in **data analytics**—especially in finance or fleet optimization roles where I can create value from data. If you're hiring or would like to collaborate:
 
-📩 hanysmaulia91@gmail.com  
-🔗 [LinkedIn Profile](https://linkedin.com/in/hanysmaulia)  
+**Email:** hanysmaulia91@gmail.com  
+**LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/hanysmaulia)  
+**Portfolio Website:** [yourwebsite.com](https://Hanysdata.com)
 📁 [Explore my GitHub Repositories](https://github.com/Hanysdata)
 
 ---
