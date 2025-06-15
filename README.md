@@ -34,7 +34,7 @@ I'm actively transitioning into a **Data Analyst** role where I can transform da
 
 ---
 
-### ✈️ 2. Fuel Cost Analysis
+### ✈️ 2. Fuel Cost Analysis for Airlines
 **Objective**: Assess how efficiently the airline fuel cost  
 
 [View Projects →](/projects/Fuel-Cost-Analysis)
