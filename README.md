@@ -28,7 +28,7 @@ I'm actively transitioning into a **Data Analyst** role where I can transform da
 ## 🚀 Featured Projects
 
 ### 📊 1. Cash Flow Monitoring for Airlines
-**Objective**: Build a real-time, data-driven cash monitoring system for airlines.  
+**Objective**: Build a real time, data driven cash monitoring system for airlines.  
 
 [View Projects →](/projects/Cash-Flow-Monitoring-for-Airlines)
 
@@ -60,7 +60,7 @@ Currently Learning and Developing Skills In:
 
 ## 🤝 Let’s Connect!
 
-I’m always open to opportunities in **data analytics**—especially in finance or fleet optimization roles where I can create value from data. If you're hiring or would like to collaborate:
+I’m always open to opportunities in **data analytics** especially in finance or fleet optimization roles where I can create value from data. If you're hiring or would like to collaborate:
 
 **Email:** hanysmaulia91@gmail.com  
 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/hanysmaulia)
