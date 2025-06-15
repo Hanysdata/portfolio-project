@@ -2,8 +2,8 @@
 
 > Passionate data profesional specializing in business analytics and insight generation
 
-Hi there! I'm a **Jr Cash Management Assoc**, with a growing passion and focus on **data analytics in finance and fleet management**. 
-I'm actively transitioning into a **Data Analyst** role where I can transform data into insights and decisions that **optimize financial operations and asset utilization**.
+Hi there! I'm a **Jr Cash Management Assoc**, with a growing passion and focus on **data analytics in finance and operational flight**. 
+I'm actively transitioning into a **Data Analyst** role where I can transform data into insights and decisions that **optimize financial operations**.
 
 📍 **Location**: Indonesia 
 
@@ -60,7 +60,7 @@ Currently Learning and Developing Skills In:
 
 ## 🤝 Let’s Connect!
 
-I’m always open to opportunities in **data analytics** especially in finance or fleet optimization roles where I can create value from data. If you're hiring or would like to collaborate:
+I’m always open to opportunities in **data analytics** especially in finance or operation flight roles where I can create value from data. If you're hiring or would like to collaborate:
 
 **Email:** hanysmaulia91@gmail.com  
 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/hanysmaulia)
