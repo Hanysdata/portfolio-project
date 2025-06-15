@@ -34,10 +34,10 @@ I'm actively transitioning into a **Data Analyst** role where I can transform da
 
 ---
 
-### ✈️ 2. Fleet Utilization Analysis
-**Objective**: Assess how efficiently the airline fleet is being utilized.  
+### ✈️ 2. Fuel Cost Analysis
+**Objective**: Assess how efficiently the airline fuel cost  
 
-[View Projects →](/projects/Fleet-Utilization-Analysis)
+[View Projects →](/projects/Fuel-Cost-Analysis)
 
 ---
 
