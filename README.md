@@ -85,7 +85,7 @@ I’m always open to opportunities in **data analytics**—especially in finance
 
 **Email:** hanysmaulia91@gmail.com  
 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/hanysmaulia)  
-**Portfolio Website:** [yourwebsite.com](https://hanysdata.github.io/portfolio-project/README.md)
+**Portfolio Website:** [yourwebsite.com](https://github.com/Hanysdata/portfolio-project/edit/main/README.md))
 
 ---
 
