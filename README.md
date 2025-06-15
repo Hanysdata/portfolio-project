@@ -4,7 +4,9 @@
 
 Hi there! I'm a **Jr Cash Management Analyst at Citilink Indonesia**, with a growing passion and focus on **data analytics in finance and fleet management**. 
 I'm actively transitioning into a **Data Analyst** role where I can transform data into insights and decisions that **optimize financial operations and asset utilization**.
- 
+
+📍 **Location**: Indonesia 
+
 🎯 **Target Role**: Data Analyst (Finance / Fleet Management) 
 
 🛠️ **Core Skills**:
@@ -13,8 +15,6 @@ I'm actively transitioning into a **Data Analyst** role where I can transform da
 - BigQuery (Beginner)
 - Looker (Beginner)
 - GitHub (Beginner)
-- Python (Pandas, NumPy)
-- Data Visualization (Matplotlib, Seaborn, Tableau, Power BI)
 
 ---
 
@@ -32,7 +32,7 @@ I'm actively transitioning into a **Data Analyst** role where I can transform da
 - Enabled finance team to **proactively manage cash reserves**
 - Avoiding potential shortfalls during fluctuating operational periods.
 
-[View Projects ]
+[View Projects →](/projects/Cash-Flow-Monitoring-for-Airlines)
 
 ---
 
@@ -49,7 +49,7 @@ I'm actively transitioning into a **Data Analyst** role where I can transform da
 - resulting in **reduced idle time**
 - **better fleet ROI**.
 
-[View Projects ]
+[View Projects →](/projects/Fleet-Utilization-Analysis)
 
 ---
 
@@ -66,7 +66,7 @@ I'm actively transitioning into a **Data Analyst** role where I can transform da
 - Improving understanding of **sales bottlenecks**
 - Potential **revenue streams**.
 
-[View Projects ]
+[View Projects →](/projects/Ecommerce-Sales-Performance-Analysis)
 
 ---
 
@@ -85,7 +85,7 @@ I’m always open to opportunities in **data analytics**—especially in finance
 
 **Email:** hanysmaulia91@gmail.com  
 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/hanysmaulia)  
-**Portfolio Website:** [yourwebsite.com](https://Hanysdata.com)
+**Portfolio Website:** [yourwebsite.com](https://yourwebsite.com)
 📁 [Explore my GitHub Repositories](https://github.com/Hanysdata)
 
 ---
